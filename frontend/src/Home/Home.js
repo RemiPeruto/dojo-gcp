@@ -8,7 +8,7 @@ const Home = () => {
         title="Inline Frame Example"
         width="100%"
         height="100%"
-        src="https://www.mapcrunch.com/"
+        src="https://www.corobizar.com/"
       />
       <div className="bottom-placeholder" />
     </div>
